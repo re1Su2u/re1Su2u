@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rei.
+- 👋 Hi, I’m be11ch@nn.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me is nothing.
