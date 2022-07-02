@@ -1,4 +1,6 @@
+# 
 I am yurindo. Beginner developer.
+---
 
 I don't know how usual programmers write the code. That means there's no theory of programming in my mind. Thus, my code is written terribly. If a sophisticated programmer see my code, s/he will screem and run.. 
 
